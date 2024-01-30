@@ -1,27 +1,20 @@
 # Mystic-Wings
 
-![image](https://github.com/Computer-game-development-course/Mystic-Wings/assets/93255163/2536ad5e-7144-4657-a6b6-6aeb4cd0475d)
+![image](https://github.com/Computer-game-development-course/Mystic-Wings/assets/93255163/1e7d84ba-f79d-4b1f-911d-ac2514fd0f67)
 
-**This image is for illustration only and was created with Chat GPT
+* [Click here to play on itch.io](https://alinaandyuval.itch.io/mysticwings)
 
 ## Overview
-In the game, the players compete in a variety of magical tasks and challenges in a spectacular fantastic world. Each player leads their custom fairy in spectacular mid-air races, using spells to speed up and outrun opponents, and solving magical puzzles to gain advantages in the race. The game offers a unique experience of competitiveness and creative thinking, immersed in a rich world full of wonders, challenging the players to improve and demonstrate their magical skills.
+This is a competition game between 2 players in a spectacular fantastic world.
+Each player leads their fairy in spectacular air races, collecting magic to speed up and outrun opponents, and dodging slow bombs. The game offers a unique experience of competitiveness and creative thinking, immersed in a rich world full of wonders, challenging the players to improve and demonstrate their magical skills.
 
-## Game Features
-* Race against friends or players from around the world.
-* Form teams and compete in relay-style races.
-* Share resources and strategies with team members.
-* Players can personalize their fairy's appearance, including outfits, colors, and accessories.
-* Unique skill sets and special abilities for each fairy that can be upgraded over time.
-* A variety of enchanting race tracks set in fantastical landscapes like mystical forests, floating islands, and spellbound castles.
-* Dynamic track elements that change during the race, adding surprise and excitement.
-
-
-## System Requirements
---to be specified later--
-
-## Installation Instructions
---to be specified later--
+## Game features
+* Race against friends.
+* A variety of magical race tracks located in fantastic landscapes such as mystical forests, floating islands and enchanted castles.
+* Dynamic elements on the track that change during the race, add surprise and excitement.
+* Collect charms that will help you increase the speed of your fairy.
+* Avoid bombs that slow down your fairy speed.
+  
 
 ## Support
 For any assistance or to report bugs, please contact our support team at "alinush0zahozi@gmail.com"
