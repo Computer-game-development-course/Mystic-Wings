@@ -1,8 +1,9 @@
 # Mystic-Wings
 
-![image](https://github.com/Computer-game-development-course/Mystic-Wings/assets/93255163/1e7d84ba-f79d-4b1f-911d-ac2514fd0f67)
+![image](https://github.com/Computer-game-development-course/Mystic-Wings/assets/93255163/4053d7cc-f3ec-42f0-a69a-4996d46733bb)
 
 * [Click here to play on itch.io](https://alinaandyuval.itch.io/mysticwings)
+
 
 ## Overview
 This is a competition game between 2 players in a spectacular fantastic world.
