@@ -20,5 +20,5 @@ Each player leads their fairy in spectacular air races, collecting magic to spee
 ## Support
 For any assistance or to report bugs, please contact our support team at "alinush0zahozi@gmail.com"
 
-## The official components of the game:
+## The official components of the game
 [Click here to go to the wiki page](https://github.com/Computer-game-development-course/Mystic-Wings/wiki)
